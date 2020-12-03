@@ -70,7 +70,7 @@ h2 {
 .first_story {
     width: 25%;
     height:450px;
-    margin-left: 77px;
+    margin-left: 95px;
     float: left;
 }
 
@@ -82,4 +82,48 @@ h2 {
 
 }
 
+.second_story {
+    width: 25%;
+    height:450px;
+    margin-left: 95px;
+    float: left;
 
+}
+.second_story img {
+    width: 340px;
+    height: 440px;
+    border-radius: 14px;
+
+}
+
+
+.third_story {
+    width: 25%;
+    height:450px;
+    margin-left: 95px;
+    float: left;
+   
+
+}
+
+.third_story img {
+    width: 340px;
+    height: 440px;
+    border-radius: 14px;
+
+}
+
+.header {
+    text-align: center;;
+}
+/*
+.phylosophy {
+   clear: both;
+   margin-top: 40px;
+}
+
+.phylosophy img {
+    
+    height: 80px;
+}
+*/

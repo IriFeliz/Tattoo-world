@@ -1,5 +1,6 @@
 body {
     background-color:grey;
+            
 }
 
 header ul {
@@ -39,6 +40,7 @@ header {
     margin-right: auto;
     opacity: 0.9;
     
+    
 
 }
 
@@ -51,6 +53,33 @@ header {
 
 }
 
+.moto h4 {
+    font-size: larger;
+    font-stretch: expanded;
+    color: rgb(29, 25, 25);
+    margin-left: 40px;
+}
 
+h2 {
+    font-style: Arial. sans-serif;
+    font-size: 33px;
+    text-align: center;
+
+}
+
+.first_story {
+    width: 25%;
+    height:450px;
+    margin-left: 77px;
+    float: left;
+}
+
+.first_story img {
+    width: 340px;
+    height: 440px;
+    border-radius: 14px;
+
+
+}
 
 

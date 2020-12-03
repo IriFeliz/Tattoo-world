@@ -1,0 +1,56 @@
+body {
+    background-color:grey;
+}
+
+header ul {
+    list-style: none; /* убираем  стили*/
+    color: rgb(245, 235, 235);
+    font-size: 19px;
+    margin:0;  /* убираем отступы */
+    padding-left:0; /* убираем отступы */
+
+}
+
+header ul li {
+    display: inline-block;
+    float: left;
+    margin-left:45px;
+    margin-top: 20px;
+
+
+}
+
+header {
+    height: 55px;
+    width: 100%;
+    background-color: rgb(17, 13, 13) ;
+
+}
+.container {
+    /*
+    position: relative;
+    */
+    margin-top:35px;
+}
+
+.main_logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    opacity: 0.9;
+    
+
+}
+
+.moto {
+    /*
+    position: absolute;
+    top:8px;
+    left: 32px;
+    */
+
+}
+
+
+
+
